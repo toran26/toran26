@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @toran26
 - 👀 I’m interested in basically nothing
 - 🌱 I’m currently learning how to code and will be doing so till death, i guess.
-- 💞️ I’m looking to collaborate on everthing fun
+- 💞️ I’m looking to collaborate on anything that seems fun
 - 📫 you can reach me through ujjwal@aankhijhyal.com.np
 
 <!---
